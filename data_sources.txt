@@ -1,0 +1,6 @@
+Historic temperature info:
+https://www.ncei.noaa.gov/pub/data/normals/1981-2010/readme.txt
+https://www.ncei.noaa.gov/pub/data/normals/1981-2010/
+
+List of US ZIP codes
+https://gist.github.com/dahal/45543a277000f3362bbb
